@@ -1,2 +1,3 @@
 # rock_paper_scissors
-Rock paper scissors project from the odin project with no GUI
+Rock paper scissors project from the odin project with GUI
+
